@@ -22,7 +22,7 @@ Do check this site in your pc
 To get this project running on your local machine, follow these steps:
 
 ### 1️⃣ Setup the Environment
-* **Clone the repo:** `git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git`
+* **Clone the repo:** `https://github.com/Shishir-129/Todo-app-Django.git`
 * **Create a virtual environment:** `python -m venv venv`
 * **Activate it:** - Windows: `venv\Scripts\activate`
   - Mac/Linux: `source venv/bin/activate`
